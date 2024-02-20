@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { movies } from "../data";
 
 const listMovies = movies.map((movie, index) => {
